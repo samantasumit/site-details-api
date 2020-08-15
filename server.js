@@ -3,11 +3,11 @@ const server = jsonServer.create();
 const path = require("path");
 const router = jsonServer.router(path.join(__dirname, "db.json"));
 const middlewares = jsonServer.defaults();
-const port = 8081;
+const port = process.env.PORT || 4000;
 
 server.use(middlewares);
 server.use(router);
 server.use('/api', router);
-server.listen(process.env.PORT || port, () => {
+server.listen(port, () => {
      console.log(`JSON Server is listening on port ${port}`);
 });
