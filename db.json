@@ -2,9 +2,10 @@
     "domains": [
       {
         "id": 1,
-        "domain": "pqr.com",
+        "domain": "google.com",
         "storage": 100,
         "usedStorage": 40,
+        "avaialableDomains": 10,
         "domainTag": "Primary",
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
@@ -12,31 +13,35 @@
         "subdomain": [
           {
             "id": 11,
-            "domain": "gem.com",
+            "domain": "app.google.com",
             "usedStorage": 75,
             "domainTag": "Primary",
             "usedDomains": 4,
+            "status": "Inactive",
             "monthlyVisitor": 100
           },
           {
             "id": 12,
-            "domain": "tar.com",
+            "domain": "duck-duck-go.com",
             "usedStorage": 24,
-            "domainTag": "Primary",
+            "domainTag": "Staging",
             "usedDomains": 4,
+            "status": "Inactive",
             "monthlyVisitor": 100
           }
         ]
       },
       {
         "id": 2,
-        "domain": "war.com",
+        "domain": "andriod.com",
         "storage": 100,
         "usedStorage": 75,
+        "avaialableDomains": 10,
         "domainTag": "Primary",
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
         "monthlyVisitor": 100,
+        "status": "Inactive",
         "subdomain": []
       },
       {
@@ -44,10 +49,12 @@
         "domain": "czae.com",
         "storage": 100,
         "usedStorage": 47,
+        "avaialableDomains": 10,
         "domainTag": "Primary",
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
         "monthlyVisitor": 100,
+        "status": "Active",
         "subdomain": []
       },
       {
@@ -55,10 +62,12 @@
         "domain": "xyz.com",
         "storage": 100,
         "usedStorage": 50,
+        "avaialableDomains": 10,
         "domainTag": "Primary",
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
         "monthlyVisitor": 100,
+        "status": "Inactive",
         "subdomain": []
       }
     ]
