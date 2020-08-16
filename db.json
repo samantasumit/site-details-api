@@ -4,9 +4,9 @@
         "id": 1,
         "domain": "google.com",
         "storage": 100,
-        "usedStorage": 40,
-        "avaialableDomains": 10,
+        "usedStorage": 50,
         "domainTag": "Primary",
+        "avaialableDomains": 10,
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
         "monthlyVisitor": 100,
@@ -14,20 +14,20 @@
           {
             "id": 11,
             "domain": "app.google.com",
-            "usedStorage": 75,
-            "domainTag": "Primary",
+            "usedStorage": 10,
+            "domainTag": "Staging",
             "usedDomains": 4,
             "status": "Inactive",
             "monthlyVisitor": 100
           },
           {
             "id": 12,
-            "domain": "duck-duck-go.com",
+            "domain": "maps.google.com",
             "usedStorage": 24,
-            "domainTag": "Staging",
+            "domainTag": "Add On",
             "usedDomains": 4,
             "status": "Inactive",
-            "monthlyVisitor": 100
+            "monthlyVisitor": 1100
           }
         ]
       },
@@ -40,7 +40,7 @@
         "domainTag": "Primary",
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
-        "monthlyVisitor": 100,
+        "monthlyVisitor": 2000,
         "status": "Inactive",
         "subdomains": []
       },
@@ -53,8 +53,8 @@
         "domainTag": "Primary",
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
-        "monthlyVisitor": 100,
-        "status": "Active",
+        "monthlyVisitor": 2000,
+        "status": "Inactive",
         "subdomains": []
       },
       {
