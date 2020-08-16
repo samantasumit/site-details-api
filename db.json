@@ -10,7 +10,7 @@
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
         "monthlyVisitor": 100,
-        "subdomain": [
+        "subdomains": [
           {
             "id": 11,
             "domain": "app.google.com",
@@ -42,7 +42,7 @@
         "monthlyVisitorCapacity": 1000,
         "monthlyVisitor": 100,
         "status": "Inactive",
-        "subdomain": []
+        "subdomains": []
       },
       {
         "id": 3,
@@ -55,7 +55,7 @@
         "monthlyVisitorCapacity": 1000,
         "monthlyVisitor": 100,
         "status": "Active",
-        "subdomain": []
+        "subdomains": []
       },
       {
         "id": 4,
@@ -68,7 +68,7 @@
         "monthlyVisitorCapacity": 1000,
         "monthlyVisitor": 100,
         "status": "Inactive",
-        "subdomain": []
+        "subdomains": []
       }
     ]
   }
