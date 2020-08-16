@@ -17,16 +17,16 @@
             "usedStorage": 10,
             "domainTag": "Staging",
             "usedDomains": 4,
-            "status": "Inactive",
+            "status": "Active",
             "monthlyVisitor": 100
           },
           {
             "id": 12,
             "domain": "maps.google.com",
             "usedStorage": 24,
-            "domainTag": "Add On",
+            "domainTag": "Add-on",
             "usedDomains": 4,
-            "status": "Inactive",
+            "status": "Active",
             "monthlyVisitor": 1100
           }
         ]
@@ -67,7 +67,7 @@
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
         "monthlyVisitor": 100,
-        "status": "Inactive",
+        "status": "Active",
         "subdomains": []
       }
     ]
