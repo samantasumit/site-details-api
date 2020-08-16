@@ -40,7 +40,7 @@
         "domainTag": "Primary",
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
-        "monthlyVisitor": 2000,
+        "monthlyVisitor": 665,
         "status": "Inactive",
         "subdomains": []
       },
@@ -53,7 +53,7 @@
         "domainTag": "Primary",
         "usedDomains": 4,
         "monthlyVisitorCapacity": 1000,
-        "monthlyVisitor": 2000,
+        "monthlyVisitor": 857,
         "status": "Inactive",
         "subdomains": []
       },
